@@ -256,7 +256,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Made with ❤️ by Sai Ganesh Reddy**
+**Made with ❤️ by Radesh**
 
 [⭐ Star this repo](https://github.com/yourusername/nptel-study-assistant) | [🐛 Report Bug](https://github.com/yourusername/nptel-study-assistant/issues) | [💡 Request Feature](https://github.com/yourusername/nptel-study-assistant/issues)
 
